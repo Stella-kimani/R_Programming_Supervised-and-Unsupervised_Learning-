@@ -1,7 +1,8 @@
 # R_Programming_Supervised-and-Unsupervised_Learning-
 # R-project
 # TITLE
-Ad Click Prediction:Using the advertising dataset.
+Ad Click Prediction:Using the advertising dataset : Apply Supervised learning algorithms.
+Online Shoppers Intention : Apply Unsupervised learning algorithms.
 
 
 # AUTHOR
@@ -24,9 +25,11 @@ Feature	                                            Description
 10. Clicked on Ad	     -                     0 or 1 is indicated clicking on an Ad.
 
 # PROJECT DESCRIPTION : ONLINE SHOPPERS INTENTION UNSUPERVISED LEARNING
- The scope of the project is to predict the purchasing intention of the visitor using aggregated pageview data track during the visit along with some session and user informatin
+The scope of the project is to predict the purchasing intention of the visitor using aggregated pageview data track during the visit along with some session and user  information.
+The online marketing space is in the constant shift as new technologies, services, and marketing tactics gain popularity and become the new standard. Online store owners are one of the many different segments affected by these constant evolutions and competitors in the online retail space. In order for these business owners to survive and thrive, they need to be able to make better decisions faster. This is where web analytics comes into play for ecommerce sector. The online shoppers purchasing intention dataset provides some of the metrics from the ‘Google Analytics’ combined with user click information
+ 
 # SET UP/ INSTALLATION REQUIREMENTS
-Clone this Repo by Running: https://github.com/Stella-kimani/R-project.git
+Clone this Repo by Running: 
 
 # Technologies Used:
 R programming
