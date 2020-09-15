@@ -1,15 +1,20 @@
 # R_Programming_Supervised-and-Unsupervised_Learning-
 # R-project
 # TITLE
+
+Online Shoppers Intention : Apply Unsupervised learning algorithms.Clustering algorithms.
+
+
 Ad Click Prediction:Using the advertising dataset : Apply Supervised learning algorithms.
-Online Shoppers Intention : Apply Unsupervised learning algorithms.
+
+
 
 
 # AUTHOR
 Built by Stella Kimani
 
 # PROJECT DESCRIPTION :ADVERTISING DATASET
-Notebook done using R :The goal of this project are to deeply explore data to do with advertising, perform univariate and bivariate analysis and use supervised learning algorithms to make predicitons on which type of individuals are likely to click on an ad. I will use R in the project.
+Advertising dataset  :The goal of this project are to deeply explore data to do with advertising, perform univariate and bivariate analysis and use supervised learning algorithms to make predicitons on which type of individuals are likely to click on an ad. I will use R in the project.
 Online ads have become a daily part of internet life.Online advertising is much more fluid and dynamic than simple print ads. Online ads can and should be precise in who they target, going only to viewers based on location, age, interests, or other demographics relevant to the business. The ‘click’ goes to the business’s homepage or a content-specific landing page.
 The table below shows a description of the columns in the dataset.
 Feature	                                            Description
@@ -29,7 +34,7 @@ The scope of the project is to predict the purchasing intention of the visitor u
 The online marketing space is in the constant shift as new technologies, services, and marketing tactics gain popularity and become the new standard. Online store owners are one of the many different segments affected by these constant evolutions and competitors in the online retail space. In order for these business owners to survive and thrive, they need to be able to make better decisions faster. This is where web analytics comes into play for ecommerce sector. The online shoppers purchasing intention dataset provides some of the metrics from the ‘Google Analytics’ combined with user click information
  
 # SET UP/ INSTALLATION REQUIREMENTS
-Clone this Repo by Running: 
+Clone this Repo by Running: https://github.com/Stella-kimani/R_Programming_Supervised-and-Unsupervised_Learning-.git
 
 # Technologies Used:
 R programming
